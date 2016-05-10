@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+Hello, world!
+
+=======
 hello!
 hello
 Hello!
 Hello, world!
+>>>>>>> master
